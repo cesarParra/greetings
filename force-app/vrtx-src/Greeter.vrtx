@@ -1,0 +1,6 @@
+public class Greeter {
+    public Greeter(String person, [String greeting = 'Hello']) {
+        //greeting = greeting ?? 'Hello';
+        System.debug(`${greeting} ${person}!`);
+    }
+}

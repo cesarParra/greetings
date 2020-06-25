@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "targetApiVersion": 48.0,
+    "rootDir": "force-app/vrtx-src",
+    "targetDir": "force-app/main/classes"
+  }
+}
